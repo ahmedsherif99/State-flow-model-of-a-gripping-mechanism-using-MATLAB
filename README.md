@@ -1,6 +1,6 @@
 # State-flow-model-of-a-gripping-mechanism-using-MATLAB
 
-We are designing a gripper actuated using four-bar mechanism. It has four states depending on the power and pushbuttons. The states are:
+We designed a gripper actuated using four-bar mechanism. It has four states depending on the power and pushbuttons. The states are:
   • Stop.
   • Start.
   • Forward Motion.
