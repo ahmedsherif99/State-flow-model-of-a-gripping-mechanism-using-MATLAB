@@ -13,4 +13,4 @@ A gripper actuated using four-bar mechanism. It has four states depending on the
 
 Drive Video Link for Project Demonstration: https://drive.google.com/folderview?id=1L0iJrhx-nc_TFKU6miRPu-MTuPNgy04D
 
-![image](https://user-images.githubusercontent.com/68401714/150700501-4a122ca2-a9dd-40ad-bd59-8bb68994b6f2.png)
+![image](https://user-images.githubusercontent.com/68401714/150700741-c2b326bc-269d-4acd-a545-b1f942787dc3.png)
